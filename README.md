@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jammanaraj
+- 👋 Hi, I’m @Jammana Raj
 - 👀 I’m interested in Powershell and DevOps
 - 🌱 I’m currently working as a Azure DevOps Engineer in leading insurence organization.
 - 💞️ I’m looking to collaborate on Powershell scripting on azure 
